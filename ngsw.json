@@ -1,0 +1,127 @@
+{
+  "configVersion": 1,
+  "index": "https://Faksi.github.io/samsat/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://Faksi.github.io/samsat/favicon.ico",
+        "https://Faksi.github.io/samsat/index.html",
+        "https://Faksi.github.io/samsat/main.d778f133312e756b3a90.js",
+        "https://Faksi.github.io/samsat/polyfills.4c686a24ea7995742446.js",
+        "https://Faksi.github.io/samsat/runtime.ec2944dd8b20ec099bf3.js",
+        "https://Faksi.github.io/samsat/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://Faksi.github.io/samsat/assets/css/bootstrap.min.css",
+        "https://Faksi.github.io/samsat/assets/css/owl.carousel.min.css",
+        "https://Faksi.github.io/samsat/assets/css/style.css",
+        "https://Faksi.github.io/samsat/assets/css/themify-icons.css",
+        "https://Faksi.github.io/samsat/assets/fonts/themify.eot",
+        "https://Faksi.github.io/samsat/assets/fonts/themify.svg",
+        "https://Faksi.github.io/samsat/assets/fonts/themify.ttf",
+        "https://Faksi.github.io/samsat/assets/fonts/themify.woff",
+        "https://Faksi.github.io/samsat/assets/icons/icon-128x128.png",
+        "https://Faksi.github.io/samsat/assets/icons/icon-144x144.png",
+        "https://Faksi.github.io/samsat/assets/icons/icon-152x152.png",
+        "https://Faksi.github.io/samsat/assets/icons/icon-192x192.png",
+        "https://Faksi.github.io/samsat/assets/icons/icon-384x384.png",
+        "https://Faksi.github.io/samsat/assets/icons/icon-512x512.png",
+        "https://Faksi.github.io/samsat/assets/icons/icon-72x72.png",
+        "https://Faksi.github.io/samsat/assets/icons/icon-96x96.png",
+        "https://Faksi.github.io/samsat/assets/images/appleicon.png",
+        "https://Faksi.github.io/samsat/assets/images/client-logos.png",
+        "https://Faksi.github.io/samsat/assets/images/client.png",
+        "https://Faksi.github.io/samsat/assets/images/dualphone.png",
+        "https://Faksi.github.io/samsat/assets/images/graphic.png",
+        "https://Faksi.github.io/samsat/assets/images/icons/Cash in Hand_50px.png",
+        "https://Faksi.github.io/samsat/assets/images/icons/Help_50px.png",
+        "https://Faksi.github.io/samsat/assets/images/icons/Info_50px.png",
+        "https://Faksi.github.io/samsat/assets/images/icons/PDF 2_50px.png",
+        "https://Faksi.github.io/samsat/assets/images/iphonex.png",
+        "https://Faksi.github.io/samsat/assets/images/logo.png",
+        "https://Faksi.github.io/samsat/assets/images/perspective.png",
+        "https://Faksi.github.io/samsat/assets/images/playicon.png",
+        "https://Faksi.github.io/samsat/assets/images/screen1.jpg",
+        "https://Faksi.github.io/samsat/assets/images/screen2.jpg",
+        "https://Faksi.github.io/samsat/assets/images/screen3.jpg",
+        "https://Faksi.github.io/samsat/assets/js/bootstrap.bundle.min.js",
+        "https://Faksi.github.io/samsat/assets/js/jquery-3.2.1.min.js",
+        "https://Faksi.github.io/samsat/assets/js/owl.carousel.min.js",
+        "https://Faksi.github.io/samsat/assets/js/script.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://Faksi.github.io/samsat/assets/css/bootstrap.min.css": "3e035b1a98c46848c442529af959270bae59471b",
+    "https://Faksi.github.io/samsat/assets/css/owl.carousel.min.css": "5de44b60c38313f2762fa00d4eee86bcd2a349ed",
+    "https://Faksi.github.io/samsat/assets/css/style.css": "8ace07d2e0fc8ea3303c2754d31db69655bf1ec7",
+    "https://Faksi.github.io/samsat/assets/css/themify-icons.css": "3564b2b3dfd216ddfb26832e056d3b85b69a6663",
+    "https://Faksi.github.io/samsat/assets/fonts/themify.eot": "df12a0942cf1933f0915fe3d910fa2379f092d83",
+    "https://Faksi.github.io/samsat/assets/fonts/themify.svg": "f5af112fb5aa7c4f665acc21a38b035bbb62327c",
+    "https://Faksi.github.io/samsat/assets/fonts/themify.ttf": "5bb1fe69452a484566a81076af7567728fe7e43b",
+    "https://Faksi.github.io/samsat/assets/fonts/themify.woff": "9394f35bd2addd24666b79bfc36d4f9d247cb01d",
+    "https://Faksi.github.io/samsat/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://Faksi.github.io/samsat/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://Faksi.github.io/samsat/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://Faksi.github.io/samsat/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://Faksi.github.io/samsat/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://Faksi.github.io/samsat/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://Faksi.github.io/samsat/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://Faksi.github.io/samsat/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://Faksi.github.io/samsat/assets/images/appleicon.png": "4c15514b6441ffe65313f2d10d8022a49e0a5d57",
+    "https://Faksi.github.io/samsat/assets/images/client-logos.png": "7067756b02cd21918c3c7a04900f8eedd7aa3d2c",
+    "https://Faksi.github.io/samsat/assets/images/client.png": "c3fb4190fb9052bf13bd635893b66b3b156f977b",
+    "https://Faksi.github.io/samsat/assets/images/dualphone.png": "6d40dbb5dc98c6d260d774fc2c34a25cb5e04c34",
+    "https://Faksi.github.io/samsat/assets/images/graphic.png": "e815bbd8763640ea5566f072a9e58bcf85398439",
+    "https://Faksi.github.io/samsat/assets/images/icons/Cash in Hand_50px.png": "b09cccc83689415de96a3b404b44d3fdb3da8b1d",
+    "https://Faksi.github.io/samsat/assets/images/icons/Help_50px.png": "e339dc98c6d669ad915e5dc007e0a46fabf140c1",
+    "https://Faksi.github.io/samsat/assets/images/icons/Info_50px.png": "8c1be13c556dd7115666a5b8f8f12f1f1c3c177a",
+    "https://Faksi.github.io/samsat/assets/images/icons/PDF 2_50px.png": "dd50a94c93cd84076b5a1a58850eb671191aca43",
+    "https://Faksi.github.io/samsat/assets/images/iphonex.png": "d3e390759c5ad12ce1f96f33d5edebe951ebed65",
+    "https://Faksi.github.io/samsat/assets/images/logo.png": "fd5075897b81a3b0e062c7012ef040d596460ef6",
+    "https://Faksi.github.io/samsat/assets/images/perspective.png": "bfb42c2f3655abb1d5d9c56fea7e54a0757b08c9",
+    "https://Faksi.github.io/samsat/assets/images/playicon.png": "580811759e0fc14f70d29eab49b23e7762113087",
+    "https://Faksi.github.io/samsat/assets/images/screen1.jpg": "72db5d796e4e1a380a8ba308a4d017ecf534cc20",
+    "https://Faksi.github.io/samsat/assets/images/screen2.jpg": "57f576d003e1eed18be8731f3fcd70c46279140b",
+    "https://Faksi.github.io/samsat/assets/images/screen3.jpg": "f6446583b9128996ba035411dec271715edd2fd2",
+    "https://Faksi.github.io/samsat/assets/js/bootstrap.bundle.min.js": "46d1f82f1ff4224130c6153a8a6db457477b7097",
+    "https://Faksi.github.io/samsat/assets/js/jquery-3.2.1.min.js": "1055018c28ab41087ef9ccefe411606893dabea2",
+    "https://Faksi.github.io/samsat/assets/js/owl.carousel.min.js": "1a99890b57c9859a622337ed0b2f989d6e30cc0e",
+    "https://Faksi.github.io/samsat/assets/js/script.js": "af3c1edfd19c27b4ffe2bc1b74dcbaf1264d4578",
+    "https://Faksi.github.io/samsat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://Faksi.github.io/samsat/index.html": "3ab6e2bdcd494d6a72be182b283aaec52df778ae",
+    "https://Faksi.github.io/samsat/main.d778f133312e756b3a90.js": "2dadbd88fef655525bf3363a01e29dfb987cbf0e",
+    "https://Faksi.github.io/samsat/polyfills.4c686a24ea7995742446.js": "4ab98e11e44c4bc97507dfc711f8420a47d6f18e",
+    "https://Faksi.github.io/samsat/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://Faksi.github.io/samsat/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
